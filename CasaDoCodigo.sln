@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Recursos", "_Recursos", "{A28E998F-BEBB-4D44-B58E-FDC4305848AB}"
 EndProject
@@ -101,11 +101,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "views-com-bootstrap", "view
 		_Recursos\views-com-bootstrap\Resumo.cshtml = _Recursos\views-com-bootstrap\Resumo.cshtml
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aulas", "Aulas", "{6474456B-3094-4366-B537-73466B93B359}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parte 1 e 2", "Parte 1 e 2", "{6474456B-3094-4366-B537-73466B93B359}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula1", "Aula1", "{BC06BC52-4BE8-44D8-8062-6AC245BFF722}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaDoCodigo", "Aulas\Aula1\CasaDoCodigo\CasaDoCodigo.csproj", "{178B613C-AD1F-4248-9312-E7D23D825D3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasaDoCodigo", "Aulas\Aula1\CasaDoCodigo\CasaDoCodigo.csproj", "{178B613C-AD1F-4248-9312-E7D23D825D3D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parte 3", "Parte 3", "{AF2CF3CE-A8B0-472E-9ADF-30B36BF0660B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
